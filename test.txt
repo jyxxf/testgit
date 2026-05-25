@@ -1,3 +1,7 @@
 first line
 second line
+<<<<<< HEAD
 forth line
+=======
+third line
+>>>>>> 0a8e6f940814eb80c5ec477400f5cd68af40497d
