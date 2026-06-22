@@ -1,4 +1,8 @@
 first line
 third line
 second line
+<<<<<<< HEAD
 forth line
+=======
+4 line
+>>>>>>> 80bf4303b9c1a489671f566ba513080288917690
